@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Where I'll Be Waiting",
+  "base_artist": "Rich Edwards",
+  "createdAt": "2026-04-03T16:04:40.844818Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Where I’ll Be Waiting",
+      "artist": "Rich Edwards",
+      "has_synced": true,
+      "path": "select/01_Where_I’ll_Be_Waiting_Rich_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Where I'll Be Waiting",
+      "artist": "Rich Edwards",
+      "has_synced": true,
+      "path": "select/02_Where_I'll_Be_Waiting_Rich_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Where I’ll Be Waiting",
+      "artist": "Rich Edwards",
+      "has_synced": true,
+      "path": "select/03_Where_I’ll_Be_Waiting_Rich_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Where I'll Be Waiting - VIP Mix",
+      "artist": "Rich Edwards",
+      "has_synced": true,
+      "path": "select/04_Where_I'll_Be_Waiting_-_VIP_Mix_Rich_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Where I'll Be Waiting (feat. Cozi Zuehlsdorff)",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/05_Where_I'll_Be_Waiting_(feat._Cozi_Zuehlsdorff)_VA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "where ill be waiting",
+      "artist": "rich edwardscozi zuehlsdorff",
+      "has_synced": true,
+      "path": "select/06_where_ill_be_waiting_rich_edwardscozi_zuehlsdorff.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Where I'll Be Waiting (feat. Cozi Zuehlsdorff)",
+      "artist": "Rich Edwards",
+      "has_synced": true,
+      "path": "select/07_Where_I'll_Be_Waiting_(feat._Cozi_Zuehlsdorff)_Rich_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Where I’ll Be Waiting (feat. Cozi Zuehlsdorff)",
+      "artist": "Rich Edwards",
+      "has_synced": true,
+      "path": "select/08_Where_I’ll_Be_Waiting_(feat._Cozi_Zuehlsdorff)_Rich_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Where I’ll Be Waiting",
+      "artist": "Rich Edwards feat. Cozi Zuehlsdorff",
+      "has_synced": true,
+      "path": "select/09_Where_I’ll_Be_Waiting_Rich_Edwards_feat._Cozi_Zuehlsdorff.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where I'll Be Waiting",
+      "artist": "Rich Edwards feat. Cozi Zuehlsdorff",
+      "has_synced": true,
+      "path": "select/10_Where_I'll_Be_Waiting_Rich_Edwards_feat._Cozi_Zuehlsdorff.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Where I'll Be Waiting ft. Cozi Zuehlsdorff",
+      "artist": "Rich Edwards",
+      "has_synced": true,
+      "path": "select/11_Where_I'll_Be_Waiting_ft._Cozi_Zuehlsdorff_Rich_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Where I'll Be Waiting",
+      "artist": "Rich Edwards, Cozi Zuehlsdorff",
+      "has_synced": true,
+      "path": "select/12_Where_I'll_Be_Waiting_Rich_Edwards,_Cozi_Zuehlsdorff.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Where I'll Be Waiting feat. Cozi Zuehlsdorff",
+      "artist": "Richard Edwards",
+      "has_synced": true,
+      "path": "select/13_Where_I'll_Be_Waiting_feat._Cozi_Zuehlsdorff_Richard_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Where I’ll Be Waiting",
+      "artist": "Cozi Zuehlsdorff; Rich Edwards",
+      "has_synced": true,
+      "path": "select/14_Where_I’ll_Be_Waiting_Cozi_Zuehlsdorff;_Rich_Edwards.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Where I'll Be Waiting",
+      "artist": "Rich Edwards, Cozi Zuehlsdorff",
+      "has_synced": false,
+      "path": "select/pl_01_Where_I'll_Be_Waiting_Rich_Edwards,_Cozi_Zuehlsdorff.txt"
+    }
+  ]
+}
